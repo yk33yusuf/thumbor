@@ -1,3 +1,4 @@
+thumbor[all]
 libcurl4-openssl-dev
 python-numpy
 python-opencv
@@ -16,4 +17,3 @@ libmemcache-dev
 libmemcached-dev
 python-scipy
 cython
-thumbor[all]
